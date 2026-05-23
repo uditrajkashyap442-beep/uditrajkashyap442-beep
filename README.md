@@ -32,7 +32,7 @@ I build hardware systems and software applications that bridge the physical and 
 | **[Solar MPPT Charge Controller](https://github.com/uditrajkashyap442-beep/solar-mppt-charge-controller)** | Designed power electronics and implemented a Perturb & Observe algorithm to maximize solar energy harvesting efficiency. | Arduino, C++, Power Electronics, Boost Converter |
 | **[FPGA Digital Stopwatch](https://github.com/uditrajkashyap442-beep/de2-115-stopwatch)** | Architected a zero-latency digital stopwatch deployed directly onto an Altera DE2-115 board. | Verilog, FPGA, Digital Logic Design |
 | **[Dining Tip Dynamics](https://github.com/uditrajkashyap442-beep/dining-dynamic-tip-calculator)** | Statistical data analysis pipeline with regression models to predict customer tipping behavior based on multiple variables. | R, ggplot2, Statistical Modeling |
-| **[Kamikatsu REST API](https://github.com/uditrajkashyap442-beep/kamikatsu-recycler)** | A robust backend service built with Spring Boot featuring controllers, services, and repository layers for clean data architecture. | Java, Spring Boot, SQL, REST |
+| **[kamikatsu-recycler](https://github.com/uditrajkashyap442-beep/kamikatsu-recycler)** | A robust backend service built with Spring Boot featuring controllers, services, and repository layers for clean data architecture. | Java, Spring Boot, SQL, REST |
 
 ---
 
