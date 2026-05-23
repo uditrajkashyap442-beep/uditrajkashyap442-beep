@@ -1,60 +1,51 @@
-<h1 align="center">Hi there, I'm Udit Raj Kashyap 👋</h1>
-<h3 align="center">Electronics and Communication Engineer | Software Developer</h3>
+<h1 align="center">Udit Raj Kashyap</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Bridging+Hardware+and+Software;Java+%26+Spring+Boot+Developer;FPGA+%26+Embedded+Systems+Enthusiast;Data+Analysis+with+R" alt="Typing SVG" />
+  <strong>Electronics & Communication Engineer building embedded systems, hardware designs, and backend software.</strong>
+</p>
+
+<p align="center">
+  ECE @ VIT | Vellore, India
+</p>
+
+<p align="center">
+  <a href="https://github.com/uditrajkashyap442-beep">GitHub</a> |
+  <a href="https://www.linkedin.com/in/udit-r-kashyap-828a5a320/">LinkedIn</a> |
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uditrajkashyap442@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on bridging the gap between **embedded systems** and **modern software applications**.
-- 🌱 I’m currently learning deeper concepts in **Spring Boot**, **System Design**, and **Digital Systems Design**.
-- 🛠️ Check out my recent projects like the **FPGA Digital Stopwatch** and the **R-based Dining Tip Calculator**.
-- ⚡ Fun fact: I love finding optimal solutions, whether it's through a clean Java API or a minimal Verilog circuit!
+## What I Build
+
+I build hardware systems and software applications that bridge the physical and digital worlds. My strongest work combines embedded microcontrollers, FPGA design, and backend APIs into robust, functional systems.
+
+- **Embedded Systems & IoT:** Sensor integration, motor control, and automation using Arduino and 8051 architectures.
+- **Hardware & Digital Design:** Custom Verilog logic, FPGA deployment, and analog circuit design (amplifiers, power electronics).
+- **Backend Software:** RESTful APIs built with Java and Spring Boot for robust data management.
+- **Data Analysis:** Statistical modeling, visualization, and hypothesis testing using R and ggplot2.
+
+## Featured Work
+
+| Project | Why it matters | Stack |
+| :--- | :--- | :--- |
+| **[Solar MPPT Charge Controller](https://github.com/uditrajkashyap442-beep/solar-mppt-charge-controller)** | Designed power electronics and implemented a Perturb & Observe algorithm to maximize solar energy harvesting efficiency. | Arduino, C++, Power Electronics, Boost Converter |
+| **FPGA Digital Stopwatch** | Architected a zero-latency digital stopwatch deployed directly onto an Altera DE2-115 board. | Verilog, FPGA, Digital Logic Design |
+| **[Dining Tip Dynamics](https://github.com/uditrajkashyap442-beep/dining-dynamic-tip-calculator)** | Statistical data analysis pipeline with regression models to predict customer tipping behavior based on multiple variables. | R, ggplot2, Statistical Modeling |
+| **Kamikatsu REST API** | A robust backend service built with Spring Boot featuring controllers, services, and repository layers for clean data architecture. | Java, Spring Boot, SQL, REST |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Technical Arsenal
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br/>
-  <!-- Hardware / Embedded -->
-  <img src="https://img.shields.io/badge/Verilog-4B0082?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge&logo=microchip&logoColor=white" />
-  <br/>
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- **Languages:** C/C++, Java, R, Python, Verilog, Assembly (8051)
+- **Hardware & Tools:** FPGA (Intel/Altera), Microcontrollers, Analog Oscillators, Multi-stage Amplifiers
+- **Software Frameworks:** Spring Boot, Git, SQL, MATLAB/Simulink
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditrajkashyap442-beep&theme=radical" alt="Udit's GitHub stats" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditrajkashyap442-beep&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uditrajkashyap442@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/udit-r-kashyap-828a5a320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
