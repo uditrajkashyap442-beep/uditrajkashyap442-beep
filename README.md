@@ -41,9 +41,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uditrajkashyap442-beep&show_icons=true&theme=radical" alt="Udit's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditrajkashyap442-beep&theme=radical" alt="Udit's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditrajkashyap442-beep&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditrajkashyap442-beep&theme=radical" alt="Top Languages" />
 </p>
 
 ---
